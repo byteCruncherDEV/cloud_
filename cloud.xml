@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<catalog>
+<service>
+		<title>Облачные Сервисы</title>
+    <description>Надежная облачная инфраструктура DataSpace Cloud для бизнеса.</description>
+    <price>1000-1000000</price>
+</service>
+<service>
+		<title>Информационная Безопасность
+</title>
+    <description>Управляемые сервисы для защиты IT-инфраструктуры.
+</description>
+    <price>10000-3000000</price>
+</service>
+<service>
+		<title>Управление ЖД ЦОД<title>
+    <description>Услуги по вопросам строительства и эксплуатации ЦОД.
+</description>
+    <price>100000-4000000</price>
+</service>
+</catalog>
