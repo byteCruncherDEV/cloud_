@@ -19,9 +19,9 @@ $sxml = simplexml_load_file("cloud.xml");
 
   foreach ($sxml->service as $service) {
     echo "<tr>";
-    echo "<td>", $book->title, "</td>";
-    echo "<td>", $book->description, "</td>";
-    echo "<td>", $book->price, "</td>";
+    echo "<td>", $service->title, "</td>";
+    echo "<td>", $service->description, "</td>";
+    echo "<td>", $service->price, "</td>";
     echo "</tr>";
   }
 ?>
